@@ -1,21 +1,68 @@
-MIT License
+PitEngineer — Application and Repository Licensing Notice
+Effective date: 2026-10-20
+Maintainer: Tank-47
 
-Copyright (c) 2026 Kal117
+1. Scope
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+PitEngineer is distributed as proprietary application software, not as an
+MIT-licensed or GPL-licensed application as a whole. Rights in the author's
+original application code are reserved except as expressly granted below.
+This notice covers only material for which the author has the necessary rights.
+It does not claim ownership of third-party software, models, data or trademarks.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Free personal-use permission
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+For official application binaries first released under this notice, the author
+grants a non-exclusive, royalty-free permission to download, install, run and
+make backup copies for personal, non-commercial use, including personal testing.
+No application source-code licence is granted by this permission.
+Commercial distribution, selling the proprietary application, distributing
+modified proprietary application versions, or sublicensing it requires separate
+permission unless applicable law or another applicable licence permits it.
+To share the application, direct other users to the official release page.
+Fees charged by external model/API providers are not covered by this permission.
+
+3. Repository documentation
+
+For new documentation first published under this notice, reading and copying for
+personal, non-commercial reference and evaluation are permitted with attribution
+to Tank-47 and preservation of this notice. This is not an open-source software
+licence. Rights granted by GitHub's applicable terms remain unaffected.
+
+4. Third-party components and separately licensed source
+
+Third-party engines, libraries, models and data remain subject to their own
+licences and notices. Separately licensed project components, including the
+GPL-3.0-or-later generic speech runtime, remain under their stated licences.
+The restrictions in sections 2 and 3 do NOT apply to those components or their
+corresponding source and do not limit any copying, modification, redistribution
+or other rights granted by those licences. Mandatory licence terms prevail.
+The corresponding release must provide the applicable notices and any required
+source/build materials. This notice does not establish that redistribution
+requirements have been fulfilled or resolve an application's GPL integration
+boundary merely by describing components separately.
+
+5. Previously licensed material
+
+This notice is prospective. It does not revoke or narrow any valid MIT or other
+licence previously granted for an earlier copy or version. The original MIT
+notice is preserved in LEGACY_MIT.txt for historical reference. Its presence
+does not newly license later proprietary binaries under MIT, nor establish
+that unpublished application source was previously released under MIT.
+
+6. Warranty and responsibility
+
+To the extent permitted by applicable law, the application is provided AS IS,
+without warranties, including merchantability, fitness for a particular purpose
+or uninterrupted or error-free operation. The author is not liable for resulting
+loss or damage except where such exclusion is prohibited by law. The application
+provides race information and advice only; the driver retains responsibility
+for driving decisions. Statutory rights that cannot be excluded are unaffected.
+
+中文摘要（条款说明）：
+主 App 保持闭源，允许免费下载、安装及个人非商业使用和测试，不授予主程序
+源码许可。商业分发、销售或分发修改版主程序须另获许可，法律或其他适用许可
+允许的情况除外。分享时请提供官方发布页面链接。第三方组件和另行采用 GPL 的
+通用语音组件仍适用各自许可，上述专有限制不缩减其使用、修改或再分发权利。
+此前有效授予的 MIT 等许可不撤回。本声明不代表第三方发布材料已齐全，
+也不构成对 GPL 集成边界的审查结论。
