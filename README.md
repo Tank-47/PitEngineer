@@ -26,9 +26,9 @@ PitEngineer 是一款为 iRacing 打造、注重轻量化交互的 AI 赛事工�
 
 **追前车，先看差距，再看有没有机会**
 
-> “前车和我的差距。” → “我能追上他吗？” → “我在哪个弯输给前车最多？”
+> “前车和我的差距。” → “我能追上他吗？” → “我在哪个弯比前车慢？”
 >
-> “What's the gap to the car ahead?” → “Can I catch him?” → “Where am I losing the most time to him?”
+> “What's the gap to the car ahead?” → “Can I catch him?” → “At which corner am I slower than the car ahead?”
 
 差距、相对配速和弯道损失是不同信息。应用需要分别检查当前差距和有效记录；仅有差距时，不能据此承诺追得上。
 
