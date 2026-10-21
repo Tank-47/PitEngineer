@@ -307,7 +307,7 @@ PitEngineer 是一款为 iRacing 打造、注重轻量化交互的 AI 赛事工�
 
 ## 下载与反馈
 
-当前测试版：[PitEngineer 0.1.0 — Modular Test](https://github.com/Tank-47/PitEngineer/releases/tag/v0.1.0-modular-test.20261020)。下载附件 `RaceEngineer-Setup-private-test.exe`，约 1.89 GiB，安装包未签名，仍保留测试版名称与提示。校验文件、App 许可和第三方源码／许可审查材料随该版本提供；材料中的未确认事项及测试范围以发布说明为准。
+暫時有點Bug還未修復，之後再release
 
 反馈时请注明应用版本、使用语言、输入方式、问题原文、预期回答与实际回答。若方便，请补充车型、赛道和问题发生时的场景，并先对截图或日志脱敏。
 
